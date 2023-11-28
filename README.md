@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ADil Sarfraz</h1>
-<h3 align="center">A Full Stack Web developer from Lahore Pakistan</h3>
+<h3 align="center">A Full Stack Web developer ✨ - Lahore Punjab, Pakistan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adilsarfraz02&label=Profile%20views&color=0e75b6&style=flat" alt="adilsarfraz02" /> </p>
 
