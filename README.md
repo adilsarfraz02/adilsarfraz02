@@ -1,19 +1,15 @@
 <div style="background-color: white;color: black;">
     <h1 align="center">Hi 👋, I'm ADil Sarfraz</h1>
     <h3 align="center">Full Stack Web developer ✨ - Lahore Punjab, Pakistan.</h3>
-
-    <p align="center"> <img
-            src="https://komarev.com/ghpvc/?username=adilsarfraz02&label=Profile%20views&color=0e75b6&style=flat"
+    <p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=adilsarfraz02&label=Profile%20views&color=0e75b6&style=flat"
             alt="adilsarfraz02" title="ADil Sarfraz" /> </p>
-
     <p align="center"> <a href="https://twitter.com/@adilsarfr00" target="blank"><img
                 src="https://img.shields.io/twitter/follow/@adilsarfr00?logo=twitter&style=for-the-badge"
                 alt="@adilsarfr00" /></a>
     <p align="center">💬 Ask me about Nextjs, mern, React js</p>
     <h2 align="center">📫 How to reach me adilsarfr00@gmail.com</h2>
-    </p>
-
-
+</p>
     <h3 align="center">Connect with me:</h3>
     <p align="center">
         <a href="https://twitter.com/@adilsarfr00" target="blank"><img align="center"
@@ -23,7 +19,6 @@
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
                 alt="adilsarfraz02/" height="30" width="40" /></a>
     </p>
-
     <h3 align="left">Languages and Tools:</h3>
     <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -68,16 +63,11 @@
             rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
                 alt="webpack" width="40" height="40" /> </a> </p>
-
     <p><img align="left"
             src="https://github-readme-stats.vercel.app/api/top-langs?username=adilsarfraz02&show_icons=true&locale=en&layout=compact"
             alt="adilsarfraz02" /></p>
-
     <p>&nbsp;<img align="center"
             src="https://github-readme-stats.vercel.app/api?username=adilsarfraz02&show_icons=true&locale=en"
             alt="adilsarfraz02" /></p>
-
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adilsarfraz02&"
-            alt="adilsarfraz02" /></p>
-
-</div>
+            alt="adilsarfraz02" /></p></div>
