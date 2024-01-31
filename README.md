@@ -15,7 +15,7 @@
         <a href="https://twitter.com/@adilsarfraz02" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
                 alt="@adilsarfraz" height="30" width="40" /></a>
-        <a href="https://facebook.com/adilsarfraz02" target="blank"><img align="center"
+        <a href="https://www.facebook.com/adilsarfraz02" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
                 alt="@adilsarfr00" height="30" width="40" /></a>
         <a href="https://linkedin.com/in/adilsarfraz02/" target="blank"><img align="center"
