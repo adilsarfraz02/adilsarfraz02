@@ -1,4 +1,4 @@
-<div style="background-color: white;color: black;">
+<div style="background-color: black;color: white;">
     <h1 align="center">Hi 👋, I'm ADil Sarfraz</h1>
     <h3 align="center">Full Stack Web developer ✨ - Lahore Punjab, Pakistan.</h3>
     <p align="center"> 
