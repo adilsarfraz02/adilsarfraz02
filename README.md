@@ -8,7 +8,7 @@
                 src="https://img.shields.io/twitter/follow/adilsarfraz02?logo=twitter&style=for-the-badge"
                 alt="@adilsarfr00" /></a>
     <p align="center">*💬 Ask me about Nextjs, mern, React js</p>
-    <h3 align="center">*📫 How to reach me adilsarfr00@gmail.com and portfolio at https://adilsarfraz.vercel.app</h3>
+    <h3 align="center">*📫 How to reach me adilsarfr00@gmail.com and portfolio at https://adilsarfraz.me</h3>
 </p>
     <h3 align="center">Connect with me:</h3>
     
